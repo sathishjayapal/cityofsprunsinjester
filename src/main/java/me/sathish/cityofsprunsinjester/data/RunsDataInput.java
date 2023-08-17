@@ -1,6 +1,9 @@
 package me.sathish.cityofsprunsinjester.data;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 @Getter
 @Setter
